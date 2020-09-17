@@ -1,9 +1,12 @@
-h1{
-    color: goldenrod;
+h1 {
+    color: darkgoldenrod;
 }
-h2{
-    color: brown;
+h2 {
+    color: darkslategray;
 }
-h3{
-    color: darkcyan; 
+h3 {
+    color: darkorchid; 
+}
+h4 {
+    color: green;
 }
