@@ -1,12 +1,11 @@
 h1 {
-    color: rgb(37, 11, 184);
+    color: rosybrown; font-size: 30px;
 }
+
 h2 {
-    color: rgb(47, 69, 79);
+    color: darkgray; font-size: 20px;
 }
+
 h3 {
-    color: rgb(155, 50, 204); 
-}
-h4 {
-    color: rgb(255, 136, 0);
+    color: black; font-size: 15px;
 }
