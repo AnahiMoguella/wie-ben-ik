@@ -2,8 +2,8 @@ h1 {
   color: firebrick;
 }
 h2 {
-   color: black;
+   color: black; text-align: center;
 }
 h3 {
-   color: dimgray;
+   color: dimgray; text-align: center;
 }
