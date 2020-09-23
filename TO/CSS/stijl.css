@@ -1,11 +1,9 @@
 h1 {
-    color: darkslategrey; font-size: 30px;
+  color: firebrick;
 }
-
 h2 {
-    color: darkslategray; font-size: 20px;
+   color: black;
 }
-
 h3 {
-    color: darkslategrey; font-size: 15px;
+   color: dimgray;
 }
