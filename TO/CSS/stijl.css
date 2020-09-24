@@ -1,7 +1,9 @@
 h1 {
+    color: black;
   height: 50px;
   width: 300px;
-  background-color: burlywood;
+  background-color: rgba(128, 128, 0, 0.685);
+  border: 3px solid black;
   font-size: 50px;
   font-style: normal;
   font-weight: bold;
@@ -10,13 +12,23 @@ h2 {
    color: black;
    height: 30px;
    width: 150px;
-   border:2px solid darkblue;
+   border:3px solid olive;
+   background-color: rgba(128, 128, 0, 0.432);
 }
 h3 {
-   color: dimgray;
-   text-decoration: overline;
-   text-decoration: underline;
+   color: black;
+   height: 240px;
+   width: 900px;
 }
-h4 {
-    style="width: 2; height: 145;"
+#foto {
+   width: 240px;
+   height: 207px;
+}
+#kopje1 {
+   width: 215px;
+   height: 130px; 
+}
+#kopje3 {
+   width: 500px;
+   height: 130px;   
 }
