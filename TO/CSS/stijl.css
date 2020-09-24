@@ -1,11 +1,21 @@
 h1 {
-  color: firebrick;
+  height: 50px;
+  width: 300px;
+  background-color: burlywood;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: bold;
 }
 h2 {
-   color: black; text-align: center;
+   color: black;
+   height: 30px;
+   width: 150px;
+   border:2px solid darkblue;
 }
 h3 {
-   color: dimgray; text-align: center;
+   color: dimgray;
+   text-decoration: overline;
+   text-decoration: underline;
 }
 h4 {
     style="width: 2; height: 145;"
