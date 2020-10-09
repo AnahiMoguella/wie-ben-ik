@@ -1,8 +1,7 @@
 
 body {
-    background-color: black;
+    background-color: #2b2129;
     margin: 0px;
-
 }
 
 #container {
@@ -14,18 +13,18 @@ body {
 
 ul {
     padding: 1px;
-    background-color: greenyellow;
-
-    
+    background-color: white;
+    height: 40px;
+    width: 600px;
 }
 
 li {
     font-family: 'Times New Roman', Times, serif;
     font-size: 30px;
     display: inline;
-    background-color: #d8c0b8;
+    background-color: white;
     padding: 5px 10px 5px 10px;    
-    border: 5px solid #485030;
+    border: 5px solid black;
 }
 
 a {
@@ -34,9 +33,10 @@ a {
 }
 
 li:hover {
-    background-color: #e0e0d8;
-    border: 5px solid #506050;
+    background-color: tomato;
+    border: 5px solid black;
 }
+
 .menu {
     background-color: lightgoldenrodyellow;
     width: 50%;
