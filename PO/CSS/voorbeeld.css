@@ -9,6 +9,8 @@ body {
     width: 98%;
     height: 98%;
     margin: 1%;
+    font-family: 'Tangerine', serif;
+    font-size: 48px;
 }
 
 ul {
@@ -26,14 +28,14 @@ li {
 }
 
 a {
-    color: rgb(208, 231, 205);
+    color: rgb(193, 216, 189);
     text-decoration: none;    
+    text-shadow: 2px 2px 5px rgb(75, 41, 26);
 }
-
-a:hover {
+  a:hover {
     color:rgb(255, 255, 255);  
     text-shadow: 2px 2px 5px rgb(255, 255, 255); 
-}
+  }
 
 .menu {
     background-color: rgb(208, 231, 205);
@@ -63,6 +65,7 @@ h1 {
     margin: 1%;
     font-size:30px;
     color: rgb(75, 41, 26);
+    font-style: unset;
     
 }
 
@@ -70,4 +73,9 @@ h2 {
     margin: 1%;
     font-size: 20px;
     color: rgb(75, 41, 26);
+}
+
+.lichter {
+    color: rgb(255, 255, 255); 
+    text-shadow: 2px 2px 5px rgb(75, 41, 26);
 }
