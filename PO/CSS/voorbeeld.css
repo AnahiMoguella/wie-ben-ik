@@ -33,14 +33,14 @@ a {
     text-shadow: 2px 2px 5px #3f352d;
 }
   a:hover {
-    color:F9FFFB;  
+    color: #F9FFFB;  
     text-shadow: 2px 2px 5px #F9FFFB; 
   }
 
 .menu {
     background-color: #C6D8CA;
-    width: 40%;
-    height: 10%;
+    width: 90%;
+    height: 20%;
     border: 5px solid #3f352d;
     margin-left: 1%;
     margin-top: 1%;
@@ -48,8 +48,8 @@ a {
 
 .menu1 {
     background-color: #C6D8CA;
-    width: 40%;
-    height: 50%;
+    width: 90%;
+    height: 80%;
     border: 5px solid #3f352d;
     margin-left: 1%;
     margin-top: 1%;
@@ -78,4 +78,8 @@ h2 {
 .lichter {
     color: #F9FFFB; 
     text-shadow: 2px 2px 5px #3f352d;
+}
+
+#hoofdpagina {
+    display: flex;
 }
