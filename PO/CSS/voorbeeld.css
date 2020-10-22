@@ -1,11 +1,12 @@
 
 body {
-    background-color: rgb(75, 41, 26);
+    background-color: #3f352d;
     margin: 0px;
+    display: inline;
 }
 
 #container {
-    background-color: rgb(255, 255, 255);
+    background-color: #f2ece7;
     width: 98%;
     height: 98%;
     margin: 1%;
@@ -14,9 +15,9 @@ body {
 }
 
 ul {
-    background-color:  rgb(71, 88, 69);
+    background-color: #3D4E40;
     padding-left: 10px;
-    padding-top: 20px;
+
     padding-right: 5px;
     padding-bottom: 20px;
 }
@@ -28,35 +29,35 @@ li {
 }
 
 a {
-    color: rgb(193, 216, 189);
+    color: #C6D8CA;
     text-decoration: none;    
-    text-shadow: 2px 2px 5px rgb(75, 41, 26);
+    text-shadow: 2px 2px 5px #3f352d;
 }
   a:hover {
-    color:rgb(255, 255, 255);  
-    text-shadow: 2px 2px 5px rgb(255, 255, 255); 
+    color:F9FFFB;  
+    text-shadow: 2px 2px 5px #F9FFFB; 
   }
 
 .menu {
-    background-color: rgb(208, 231, 205);
-    width: 50%;
+    background-color: #C6D8CA;
+    width: 40%;
     height: 10%;
-    border: 5px solid rgb(75, 41, 26);
+    border: 5px solid #3f352d;
     margin-left: 1%;
     margin-top: 1%;
 }
 
 .menu1 {
-    background-color: rgb(208, 231, 205);
-    width: 50%;
+    background-color: #C6D8CA;
+    width: 40%;
     height: 50%;
-    border: 5px solid rgb(75, 41, 26);
+    border: 5px solid #3f352d;
     margin-left: 1%;
     margin-top: 1%;
 }
 
 p {
-    color: rgb(75, 41, 26);
+    color: #3f352d;
     font-size: 40px;
     margin: 1%;
 }
@@ -64,7 +65,7 @@ p {
 h1 {
     margin: 1%;
     font-size:30px;
-    color: rgb(75, 41, 26);
+    color: #3f352d;
     font-style: unset;
     
 }
@@ -72,10 +73,10 @@ h1 {
 h2 {
     margin: 1%;
     font-size: 20px;
-    color: rgb(75, 41, 26);
+    color: #3f352d;
 }
 
 .lichter {
-    color: rgb(255, 255, 255); 
-    text-shadow: 2px 2px 5px rgb(75, 41, 26);
+    color: #F9FFFB; 
+    text-shadow: 2px 2px 5px #3f352d;
 }
