@@ -98,13 +98,10 @@ h2 {
     font-size: 20px;
     font-family: “Courier New”, Courier, monospace, Bold;
     color: #3f352d;
+    margin: 3%;
 }
 
 #b {
-    height: 35%;
-}
-
-#c {
     height: 35%;
 }
 
@@ -132,7 +129,7 @@ h2 {
 }
 
 #foto {
-    width: 200px;
+    height: 92%;
     margin: 1%;
     float: right;
 }
