@@ -1,3 +1,4 @@
+
 body {
     background-color: #3f352d;
     margin: 0px;
@@ -72,22 +73,11 @@ a:hover {
     margin-bottom: 3%;
 }
 
-#aa {
-    height: 20%;
-}
 .tekst {
     background-color: #C6D8CA;
     width: 100%;
-    height: 85%;
-    border: 10px double #3f352d;
-}
-
-#a {
     height: 50%;
-}
-
-#b {
-    height: 45%;
+    border: 10px double #3f352d;
 }
 
 h1 {
@@ -99,16 +89,46 @@ h1 {
 
 p {
     font-size: 20px;
-    font-family:  “Courier New”, Courier, monospace;
+    font-family: “Courier New”, Courier, monospace;
     color: #3f352d;
     margin-left: 3%;
     margin-right: 3%;
 }
-
 h2 {
     font-size: 20px;
     font-family: “Courier New”, Courier, monospace, Bold;
     color: #3f352d;
+}
+
+#b {
+    height: 35%;
+}
+
+#c {
+    height: 35%;
+}
+
+#dd {
+    height: 15%;
+}
+#d {
+    height: 30%;
+}
+
+#e {
+    height: 30%;
+}
+
+#f {
+    height: 35%;
+}
+
+#g {
+    height: 65%;
+}
+
+#h {
+    height: 30%;
 }
 
 #foto {
@@ -116,6 +136,7 @@ h2 {
     margin: 1%;
     float: right;
 }
+
 
 #fotovak {
     background-color: #C6D8CA;
@@ -125,3 +146,4 @@ h2 {
     margin-top: 3%;
     margin-bottom: 3%;
 }
+
